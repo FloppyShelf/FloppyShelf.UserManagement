@@ -4,5 +4,6 @@
 		<Nullable>disable</Nullable>
 		<ImplicitUsings>disable</ImplicitUsings>
 		<RootNamespace>FloppyShelf.UserManagement</RootNamespace>
+		<EnablePackageValidation>true</EnablePackageValidation>
 	</PropertyGroup>
 </Project>
